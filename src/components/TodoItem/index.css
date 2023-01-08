@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.todo-heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: normal;
+  text-align: start;
+}
+.button {
+  background-color: transparent;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 5px;
+}
+.list-item {
+  display: flex;
+  text-align: start;
+  justify-content: space-between;
+  margin: 10px;
+  height: 30px;
+}
